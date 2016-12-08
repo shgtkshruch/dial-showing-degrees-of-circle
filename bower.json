@@ -1,0 +1,6 @@
+{
+  "name": "dial-showing-degrees-of-circle",
+  "dependencies": {
+    "normalize-css": "*"
+  }
+}
